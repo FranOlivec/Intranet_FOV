@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* para iniciar sesión considerar: 
+email: esteban@email.com
+contraseña: 123456
